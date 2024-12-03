@@ -31,4 +31,10 @@ console.log(maximizeArea([1,8,6,2,5,4,8,3,7]))
 
 /*
 forget to update the pointers or do that wrong, you will have the time of your life
+
+Ps:
+Do you realize how smart this algorith is?
+-it first maximizes the width and it does try to 
+maximize the height property which inevitably lead
+to max area at some point in the loop
 */
